@@ -1,0 +1,10 @@
+<svg width="380" height="165" viewBox="0 0 380 165" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <rect x="0.5" y="0.5" width="379" height="164" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="34" fill="#00F740" font-size="15" font-weight="600">Top Languages</text>
+  <rect x="20" y="55" width="340" height="10" rx="5" fill="#161b22"/>
+  <rect x="20" y="55" width="340" height="10" rx="5" fill="#00F740"/>
+  <circle cx="26" cy="90" r="5" fill="#00F740"/>
+  <text x="38" y="94" fill="#c9d1d9" font-size="13">Java 100%</text>
+  <text x="20" y="130" fill="#8b949e" font-size="11">Baseado nos repositórios públicos atuais</text>
+</svg>
+
