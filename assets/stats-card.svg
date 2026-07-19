@@ -1,0 +1,13 @@
+<svg width="380" height="165" viewBox="0 0 380 165" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <rect x="0.5" y="0.5" width="379" height="164" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="34" fill="#00F740" font-size="15" font-weight="600">GitHub Stats</text>
+  <text x="20" y="66" fill="#c9d1d9" font-size="13">Public Repos</text>
+  <text x="360" y="66" fill="#00F740" font-size="13" text-anchor="end">4</text>
+  <text x="20" y="92" fill="#c9d1d9" font-size="13">Total Stars</text>
+  <text x="360" y="92" fill="#00F740" font-size="13" text-anchor="end">0</text>
+  <text x="20" y="118" fill="#c9d1d9" font-size="13">Followers</text>
+  <text x="360" y="118" fill="#00F740" font-size="13" text-anchor="end">1</text>
+  <text x="20" y="144" fill="#c9d1d9" font-size="13">Following</text>
+  <text x="360" y="144" fill="#00F740" font-size="13" text-anchor="end">5</text>
+</svg>
+
