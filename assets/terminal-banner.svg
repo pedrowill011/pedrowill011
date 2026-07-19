@@ -1,0 +1,59 @@
+<svg width="900" height="560" viewBox="0 0 900 560" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace">
+  <rect x="0" y="0" width="900" height="560" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+  <path d="M 0 10 A 10 10 0 0 1 10 0 L 890 0 A 10 10 0 0 1 900 10 L 900 40 L 0 40 Z" fill="#161b22"/>
+  <line x1="0" y1="40" x2="900" y2="40" stroke="#30363d" stroke-width="1"/>
+  <circle cx="24" cy="20" r="6" fill="#ff5f57"/>
+  <circle cx="44" cy="20" r="6" fill="#febc2e"/>
+  <circle cx="64" cy="20" r="6" fill="#28c840"/>
+  <text x="88" y="24" fill="#8b949e" font-size="12">github.com/pedrowill011</text>
+
+  <text x="450" y="72" fill="#00F740" font-size="16" font-weight="600" text-anchor="middle">Ethical Hacker &amp; Pentester in progress <tspan fill="#8b949e">▌</tspan></text>
+  <line x1="24" y1="90" x2="876" y2="90" stroke="#30363d" stroke-width="1"/>
+
+  <rect x="24" y="108" width="852" height="240" rx="6" fill="#010409" stroke="#30363d" stroke-width="1"/>
+  <text x="44" y="134" font-size="12.5"><tspan fill="#00F740">pedrowill011@github</tspan><tspan fill="#58a6ff">:~</tspan><tspan fill="#c9d1d9">$ whoami</tspan></text>
+  <text x="44" y="155" font-size="12.5" fill="#8b949e">&gt; Sr.Kosh — em transição para Segurança Ofensiva</text>
+  <text x="44" y="184" font-size="12.5"><tspan fill="#00F740">pedrowill011@github</tspan><tspan fill="#58a6ff">:~</tspan><tspan fill="#c9d1d9">$ cat about.txt</tspan></text>
+  <text x="44" y="205" font-size="12.5" fill="#8b949e">&gt; Brasil · ADS @ FAMEESP</text>
+  <text x="44" y="226" font-size="12.5" fill="#8b949e">&gt; Ethical Hacking · Pentest · AV/EDR Evasion</text>
+  <text x="44" y="247" font-size="12.5" fill="#8b949e">&gt; Background em Cybersecurity (IBM)</text>
+  <text x="44" y="268" font-size="12.5" fill="#8b949e">&gt; Construindo o FinAuto</text>
+  <text x="44" y="297" font-size="12.5"><tspan fill="#00F740">pedrowill011@github</tspan><tspan fill="#58a6ff">:~</tspan><tspan fill="#c9d1d9">$ ./run.sh --status</tspan></text>
+  <text x="44" y="318" font-size="12.5" fill="#8b949e">&gt; [+] sempre aprendendo, sempre quebrando (com autorização)</text>
+
+  <line x1="24" y1="372" x2="876" y2="372" stroke="#30363d" stroke-width="1"/>
+
+  <text x="24" y="386" fill="#00F740" font-size="13">&gt; arsenal/</text>
+  <g font-size="11" fill="#00F740">
+    <rect x="24" y="396" width="90" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="33" y="412">Kali Linux</text>
+    <rect x="122" y="396" width="62" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="131" y="412">Python</text>
+    <rect x="192" y="396" width="90" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="201" y="412">Burp Suite</text>
+    <rect x="290" y="396" width="48" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="299" y="412">Nmap</text>
+    <rect x="346" y="396" width="84" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="355" y="412">Wireshark</text>
+    <rect x="438" y="396" width="90" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="447" y="412">Metasploit</text>
+    <rect x="536" y="396" width="48" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="545" y="412">Bash</text>
+  </g>
+
+  <text x="24" y="452" fill="#00F740" font-size="13">&gt; dev/</text>
+  <g font-size="11" fill="#00F740">
+    <rect x="24" y="462" width="92" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="33" y="478">TypeScript</text>
+    <rect x="124" y="462" width="68" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="133" y="478">Next.js</text>
+    <rect x="200" y="462" width="54" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="209" y="478">React</text>
+    <rect x="262" y="462" width="92" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="271" y="478">PostgreSQL</text>
+    <rect x="362" y="462" width="76" height="24" rx="4" fill="#161b22" stroke="#30363d" stroke-width="0.5"/>
+    <text x="371" y="478">Supabase</text>
+  </g>
+
+  <text x="450" y="524" fill="#8b949e" font-size="11" text-anchor="middle">⚠ Todo trabalho de teste de segurança é realizado apenas em ambientes com autorização explícita.</text>
+</svg>
